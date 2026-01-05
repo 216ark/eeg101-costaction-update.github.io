@@ -1,0 +1,53 @@
+- id: tba
+  fullname: to be announced
+  photo: avatar.jpg
+
+- id: faisal
+  fullname: Faisal Mushtaq
+  affiliation: University of Leeds, United Kingdom
+  email: f.mushtaq@leeds.ac.uk
+  photo: faisal.jpg
+
+- id: anneso
+  fullname: Anne-Sophie Dubarry
+  affiliation: Aix-Marseille University, France
+  email: anne-sophie.dubarry@univ-amu.fr
+  photo: anneso.jpg
+
+- id: pinar
+  fullname: Pınar S. Özbay
+  affiliation: Bogazici University, Turkey
+  email: pinar.ozbay@boun.edu.tr
+  photo: pinar.jpg
+
+- id: amy
+  fullname: Amy R. Bland
+  affiliation: Manchester Metropolitan University, United Kingdom
+  email: a.bland@mmu.ac.uk
+  photo: amy.jpg
+
+- id: markos
+  fullname: Markos Apolstolakis
+  affiliation: University of Cyprus, Cyprus
+  email: apostolakis.markos@ucy.ac.cy
+  photo: markos.jpg
+
+- id: vanja
+  fullname: Vanja Ković
+  affiliation: University of Belgrade, Serbia
+  email: vanja.kovic@f.bg.ac.rs
+  photo: vanja.jpg
+
+- id: mahnaz
+  fullname: Mahnaz Arvaneh
+  affiliation: University of Sheffield, United Kingdom
+  email: m.arvaneh@sheffield.ac.uk
+  photo: mahnaz.jpg
+
+- id: maximilien
+  fullname: Maximilien Chaumon
+  affiliation: Paris Brain Institute, France
+  email: maximilien.chaumon@icm-institute.org
+  photo: maximilien.jpg
+
+

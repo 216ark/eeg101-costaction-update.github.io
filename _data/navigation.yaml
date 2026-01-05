@@ -1,0 +1,15 @@
+- title: Home
+  url: /
+  match: index
+- title: Coordination
+  url: /coordination
+  match: coordination
+- title: Working Groups
+  url: /working-groups
+  match: working-groups
+- title: News
+  url: /news
+  match: news
+- title: Contact
+  url: /contact
+  match: contact
