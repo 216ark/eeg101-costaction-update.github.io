@@ -1,14 +1,11 @@
 ---
 layout: default
-title: Join
+title: Join the EEG101 network
 ---
 
----
+This means that you become part of an **active, international working community** committed to **open science, methodological rigour, and shared capacity building** across diverse research contexts.
 
-
-Joining EEG101 means becoming part of an **active, international working community** committed to **open science, methodological rigour, and shared capacity building** across diverse research contexts.
-
-Participation in EEG101 is organised through **Working Groups**, which sit at the core of the Action. These groups shape priorities, develop shared outputs, and coordinate activities across the network. By joining one or more Working Groups, members contribute directly to the scientific, technical, and training objectives of EEG101 and help guide the direction of funded activities.
+Participation in EEG101 is organised through [Working Groups](/working-groups), which sit at the core of the Action. These groups shape priorities, develop shared outputs, and coordinate activities across the network. By joining one or more Working Groups, members contribute directly to the scientific, technical, and training objectives of EEG101 and help guide the direction of funded activities.
 
 To be eligible for EEG101 activities and funding calls — including **Short-Term Scientific Missions (STSMs)**, **Virtual Mobility Awards**, and **Dissemination Grants** — individuals must be registered members of at least one EEG101 Working Group.
 
@@ -25,7 +22,7 @@ Whether you’re curious, experienced, or just getting started — **you’re we
 
 ### 🚀 Step 1 — Join a Working Group
 
-The first step is to register for one (or more) EEG101 **Working Groups** via the official COST platform:
+The first step is to register for one (or more) EEG101 [Working Groups](/working-groups) via the official COST platform:
 
 👉 **Register via e-COST:** [Apply to COST Action CA24148 (EEG101)](https://e-services.cost.eu/action/CA24148/working-groups/apply)
 
@@ -35,13 +32,14 @@ Once an application is submitted through e-COST, it is reviewed by the EEG101 Ac
 
 ### 💬 Step 2 — Join the EEG101 Discord
 
-Once registered, join the [EEG101 Discord](https://discord.gg/Sfd8ADt3), our main community space for day-to-day interaction.
+Once registered, join the [Discord server](https://discord.gg/Sfd8ADt3), our main community space for day-to-day interaction.
 
 This is where we:
+
 - exchange ideas and resources  
 - coordinate activities and meetings  
 - ask questions and support each other  
 
-When you join, feel free to introduce yourself and tell us where you’re coming from in the [#👋-welcome](https://discord.com/channels/1436437755809894533/1443230192804827136) channel! 
+When you join, feel free to introduce yourself and tell us where you’re coming from in the [#👋-welcome](https://discord.com/channels/1436437755809894533/1443230192804827136) channel!
 
 **Jump in, explore, and contribute in whatever way suits you — EEG101 is built by its community.**

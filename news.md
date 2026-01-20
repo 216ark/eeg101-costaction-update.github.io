@@ -5,8 +5,9 @@ title: News
 
 Stay connected and receive the latest updates:
 
+- [Join](/join) the EEG101 network.
 - Follow our activities on [BlueSky](https://bsky.app/profile/eeg101costaction.bsky.social) and [LinkedIn](https://www.linkedin.com/groups/16491058).
-- Subscribe to our Discord server (details to be added, TODO).
+- Subscribe to our [Discord server](https://discord.gg/Sfd8ADt3).
 - Attend our workshops and conferences (links to be added, TODO).
 
 ## 24 September 2025 - MC1 meeting

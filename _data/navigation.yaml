@@ -7,12 +7,12 @@
 - title: Working Groups
   url: /working-groups
   match: working-groups
-- title: News
-  url: /news
-  match: news
 - title: Join
   url: /join
   match: join
+- title: News
+  url: /news
+  match: news
 - title: Contact
   url: /contact
   match: contact

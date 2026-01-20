@@ -19,6 +19,10 @@ By supporting training, inclusion, and cross-sector partnerships—especially th
 
 [COST](https://www.cost.eu/) (European Cooperation in Science and Technology) is a funding agency for research and innovation networks. COST Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
 
+## Join Our Network
+
+We welcome researchers and students interested in EEG to [join](/join) our network.
+
 ## News and Updates
 
 Stay tuned for the latest [news](/news), events, and publications.

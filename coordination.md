@@ -37,4 +37,4 @@ Below you can find information about the core team coordinating our COST Action.
 
 ## Join Our Network
 
-We welcome researchers and students interested in EEG to join our network and to collaborate. Please see the [contact page](/contact).
+We welcome researchers and students interested in EEG to [join](/join) our network.

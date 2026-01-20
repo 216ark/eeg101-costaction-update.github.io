@@ -32,6 +32,6 @@ The action is structured into several working groups, each focusing on specific 
   </table>
 </div>
 
-## Get Involved
+## Join Our Network
 
-If you are interested in contributing to any of these Working Groups, please see the [contact page](/contact) or feel free to contact the Working Group leader.
+We welcome researchers and students interested in EEG to [join](/join) our network.
